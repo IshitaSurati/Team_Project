@@ -9,3 +9,6 @@
 
 ## Preview
 ![desktop](https://github.com/ForamGhoghari08/Movie_Website/assets/144684279/b41efdf5-28e5-49af-a1f3-b8d66628e865)
+
+## Visit Site 
+https://foramghoghari08.github.io/Movie_Website/
